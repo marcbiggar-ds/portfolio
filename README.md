@@ -9,10 +9,8 @@ This portfolio showcases my skills in data analysis and data science. It include
 
 ### Tools and Techniques
 + Python: I am proficient in Python, and I use it for data analysis, data cleaning, and machine learning.
-+ R: I have a basic understand of R
 + SQL: I am familiar with SQL, and I use it to query and manipulate data in databases.
 + Machine Learning: I have experience with a variety of machine learning algorithms, including linear regression, logistic regression, decision trees, and support vector machines.
-+ Natural Language Processing: I have experience with natural language processing techniques, such as sentiment analysis and topic modeling.
 + Data Visualization: I am proficient in data visualization techniques, such as creating charts, graphs, and maps.
 
 
