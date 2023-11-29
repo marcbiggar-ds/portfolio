@@ -5,6 +5,7 @@ This portfolio showcases my skills in data analysis and data science. It include
 ### Projects
 + Project 1: I used standard Python to explore a dataset on US medical insurance costs.
 + Project 2: I used EDA and Matplotlibs to see if there is a strong correlation between the economic output of a country and the life expectancy of its citizens.
++ Project 3: I used a Simple LinearRegression Model to predict medal count by country at the summer olympics.
 <br>
 
 ### Tools and Techniques
